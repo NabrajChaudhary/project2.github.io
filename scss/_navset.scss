@@ -1,0 +1,62 @@
+/* This is the code for top bar which include contact assets */
+.navset
+{
+	background: #0e2d63 !important;
+	padding: 10px;
+}
+.tleft{
+	float: left;
+	margin-left: -47px;
+	nav{
+		ul{
+			list-style:none;
+			margin-top: 0;
+			margin-bottom: 0rem
+		}
+	}
+}
+.tleft nav ul li{
+	display: inline-block;
+	padding-right: 10px;
+}
+.tleft nav ul li a{
+	text-decoration: none;
+	text-align: center;
+	color: #fff;
+	font-size: 14px;
+}
+
+.tright{
+	float: right;
+	color: #fff;	
+	}
+.sico{
+		background: #0e2d63;
+		padding: 0px;
+		font-size: 16px;
+	}
+.sico span{
+	background:#274b94 !important;
+	padding: 5px 10px;
+}
+.sico a{
+	color: #fff;
+}
+@media (max-width: 996px){
+
+	.tright{
+		display: none;
+	}
+	.tleft
+	{
+		padding: 0px 10px;
+		margin:auto;
+	}
+}
+
+.clc
+{
+	clear: both;
+}
+
+/* This is the code for top bar which include contact assets */

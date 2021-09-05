@@ -1,0 +1,100 @@
+.linfo
+{
+	position: relative;
+    padding:0px;
+}
+.sinf
+{
+	padding-top: 30px;
+}
+
+.sinf h2
+{
+	font-family: 'Roboto Slab',serif;
+	font-size: 35px;
+	font-weight: 600;
+}
+
+.sinf h5
+{
+	font-family: 'Roboto Slab',serif;
+	font-size: 18px;
+	font-weight: 600;
+}
+.navc1
+{
+	background:#dd172a;
+	padding:  20px;
+}
+
+.navc1 a
+{
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
+/* This is css for navbar */
+
+.navbar {
+    position: relative;
+    top: -188px;
+}
+.bg-light
+{
+	background: #0e2d63 !important;
+	border:  2px solid #fff;
+}
+
+.nav-item .nav-link
+{
+	color: #fff !important;
+	font-size: 16px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 10px;
+    padding-left: 24px;
+}
+
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 10rem;
+    padding: 0;
+    margin: 10px 0 0;
+    font-size: 15px;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+    background-color: #b41a18;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: .25rem;
+}
+.dropdown-item:focus, .dropdown-item:hover {
+    color: #fff;
+    text-decoration: none;
+    background-color: #bd3938;
+}
+
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: .70rem 0.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #fff;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+}
+
+/* navbar modification ends */

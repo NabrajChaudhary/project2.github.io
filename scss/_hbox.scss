@@ -1,0 +1,22 @@
+.highbox
+{
+	background: #0e2d63;
+	padding: 30px 10px;
+}
+
+
+.hboxcon a
+{
+	color: #fff;
+	text-decoration: none;
+}
+
+.contbox 
+{
+	transition: margin-top 1s;
+}
+
+.contbox:hover
+{
+	margin-top: -10px;
+}

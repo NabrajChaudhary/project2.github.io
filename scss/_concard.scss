@@ -1,0 +1,31 @@
+
+/* Card Section  starts*/
+.card-a
+{
+	background: #dddddd;
+	padding: 60px 30px 40px 30px;
+}
+.carcon
+{
+	padding: 40px 10px;
+	align-items: center;
+	background: #fff;
+	text-align: center;
+}
+
+.card a
+{
+	text-decoration: none;
+	color: #000;
+}
+
+.card
+{
+	transition: all 0.3s ease 0s;
+}
+
+.card:hover
+{
+	transform: scale(1.1);
+}
+/* Card Section  end */
